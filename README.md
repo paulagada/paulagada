@@ -179,7 +179,7 @@ object PaulAgada {
 ---
 
 <div align="center">
-  <img src="./assets/pa-logo.jpg" width="44" alt="PA Logo" />
+  <img src="https://github.com/paulagada/paul-portfolio/blob/main/assets/assets/images/pa_logo.png" width="44" alt="PA Logo" />
   <h3>💬 Let's build something resilient, fast, and impactful.</h3>
   <p>Always happy to chat about mobile architecture, Laravel backend systems, fintech/POS platforms, or global engineering opportunities.</p>
   <a href="mailto:paulagada075@gmail.com">
