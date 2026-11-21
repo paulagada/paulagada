@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=210&section=header&text=Paul%20Agada&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%7C%20Fintech%20%26%20Smart%20POS%20%7C%20Full-Stack%20APIs&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Paul Agada Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1120,55:1E1B4B,100:0E7490&height=200&section=header&text=PAUL%20AGADA&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=Mobile%20Systems%20Engineer%20%E2%80%A2%20Fintech%20%26%20Smart%20POS%20%E2%80%A2%20Scalable%20APIs&descSize=16&descAlignY=66&animation=scaleIn" width="100%" alt="Paul Agada Header" />
 </div>
 
 <div align="center">
@@ -11,11 +11,14 @@
 <br />
 
 <div align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://paulagada.github.io/paul-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=06B6D4" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/paul-agada-508952254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gitlab.com/paulagada" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
   <a href="mailto:paulagada075@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -68,7 +71,7 @@ object PaulAgada {
 <br />
 
 #### Backend, Databases & Cloud
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,firebase,mysql,git,github&theme=dark" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,firebase,mysql,git,github,gitlab&theme=dark" alt="Backend Stack" />
 
 <br /><br />
 
@@ -79,6 +82,7 @@ object PaulAgada {
 ![RBAC & Biometrics](https://img.shields.io/badge/RBAC_%26_Biometric_Auth-1E293B?style=flat-square&logo=auth0&logoColor=F59E0B)
 ![App Store Connect](https://img.shields.io/badge/App_Store_Connect-1E293B?style=flat-square&logo=appstore&logoColor=0D96F6)
 ![Google Play Console](https://img.shields.io/badge/Google_Play_Console-1E293B?style=flat-square&logo=googleplay&logoColor=414141)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-1E293B?style=flat-square&logo=gitlab&logoColor=FC6D26)
 ![Coolify](https://img.shields.io/badge/Coolify_Deployments-1E293B?style=flat-square&logo=docker&logoColor=6366F1)
 
 </div>
@@ -94,6 +98,10 @@ object PaulAgada {
       <p><b>Role:</b> Lead Mobile Developer (iOS & Android)</p>
       <p>Commercial banking mobile application built for high-security retail transactions, supporting seamless funds transfers, utility bill payments, and airtime vending.</p>
       <p>
+        <a href="https://apps.apple.com/ng/app/wakeel/id6757721541" target="_blank">App Store</a> ·
+        <a href="https://play.google.com/store/search?q=wakeel+by+altbank&c=apps&hl=en" target="_blank">Google Play</a>
+      </p>
+      <p>
         <code>Flutter</code> <code>iOS</code> <code>Android</code> <code>Fintech</code> <code>Biometric Auth</code>
       </p>
     </td>
@@ -101,6 +109,9 @@ object PaulAgada {
       <h3>📦 Erisco SFA (Erisco Foods Ltd)</h3>
       <p><b>Role:</b> Lead Mobile Developer (Google Play)</p>
       <p>Enterprise field-sales automation app powering nationwide distribution with live GPS store tracking, order management pipelines, and real-time revenue reporting.</p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.erisco.erisco_sfa&hl=en" target="_blank">Google Play</a>
+      </p>
       <p>
         <code>Flutter</code> <code>GPS / Geolocation</code> <code>Offline-First</code> <code>REST APIs</code>
       </p>
@@ -140,12 +151,12 @@ object PaulAgada {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=6366F1&text_color=E2E8F0" alt="Paul's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=paulagada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=6366F1&text_color=E2E8F0" alt="Paul's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulagada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=paulagada&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -159,5 +170,5 @@ object PaulAgada {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=110&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E7490,55:1E1B4B,100:0B1120&height=48&section=footer" width="100%" alt="Footer" />
 </div>
