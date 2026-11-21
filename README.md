@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1120,55:1E1B4B,100:0E7490&height=200&section=header&text=PAUL%20AGADA&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=Mobile%20Systems%20Engineer%20%E2%80%A2%20Fintech%20%26%20Smart%20POS%20%E2%80%A2%20Scalable%20APIs&descSize=16&descAlignY=66&animation=scaleIn" width="100%" alt="Paul Agada Header" />
+  <img src="./assets/pa-logo.jpg" width="92" alt="Paul Agada PA Logo" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D101B,45:4C1D95,80:DB2777,100:06B6D4&height=200&section=header&text=PAUL%20AGADA&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=Mobile%20%26%20Laravel%20Backend%20Engineer%20%E2%80%A2%20Fintech%20%26%20Smart%20POS%20%E2%80%A2%20Scalable%20APIs&descSize=16&descAlignY=66&animation=scaleIn" width="100%" alt="Paul Agada Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=06B6D4&center=true&vCenter=true&width=720&lines=Building+Commercial+iOS%2C+Android+%26+Flutter+Apps;Native+Kotlin+%26+Smart+POS+Hardware+Integrations;High-Security+Fintech+%26+Enterprise+Field+Software;Scalable+Laravel+%26+Node.js+Backend+Architectures;Open+to+Global+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=06B6D4&center=true&vCenter=true&width=720&lines=Building+Commercial+iOS%2C+Android+%26+Flutter+Apps;Backend+Engineer+Building+Scalable+Laravel+%26+Node.js+APIs;Native+Kotlin+%26+Smart+POS+Hardware+Integrations;High-Security+Fintech+%26+Enterprise+Field+Software;Open+to+Global+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,9 +34,26 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <ul>
+        <li>📱 <b>End-to-End Mobile Ownership:</b> I take products from architecture and UI engineering to <b>Apple App Store</b> and <b>Google Play Store</b> production releases.</li>
+        <li>⚙️ <b>Laravel Backend Engineering:</b> I architect and build secure, multi-tenant <b>Laravel</b> REST APIs, relational MySQL schemas, strict RBAC, financial reporting pipelines, and payment/settlement backends.</li>
+        <li>💳 <b>Fintech &amp; Hardware Specialist:</b> Proven track record delivering commercial banking apps (<b>Alternative Bank</b>), native Kotlin smart POS payment integrations, and <b>NIBSS-compliant</b> agent banking systems.</li>
+        <li>⚡ <b>Built for Real-World Conditions:</b> Focused on offline-first synchronization, low-latency network payload optimization, biometric/token security, and rock-solid app vitals.</li>
+        <li>🤝 <b>Let's Build Together:</b> Open to <b>Senior/Mid-Level Mobile or Laravel Backend Engineer</b> roles (Global Remote or Relocation) and high-impact fintech/enterprise collaborations.</li>
+      </ul>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="./assets/paul-avatar.jpg" width="230" alt="Paul Agada 3D Avatar" />
+    </td>
+  </tr>
+</table>
+
 ```kotlin
 object PaulAgada {
-    val role = "Mobile Software Engineer (iOS, Android, Kotlin & Flutter)"
+    val role = "Full-Stack Software Engineer (iOS, Android, Kotlin & Flutter, Laravel & PHP)"
     val experience = "4+ Years End-to-End Commercial Delivery"
     val location = "Lagos, Nigeria 🌍 (Open to Relocation & Global Remote)"
 
@@ -54,11 +73,6 @@ object PaulAgada {
 }
 ```
 
-- 📱 **End-to-End Mobile Ownership:** I take products from architecture and UI engineering to **Apple App Store** and **Google Play Store** production releases.
-- 💳 **Fintech & Hardware Specialist:** Proven track record delivering commercial banking apps (**Alternative Bank**), native Kotlin smart POS payment integrations, and **NIBSS-compliant** agent banking systems.
-- ⚡ **Built for Real-World Conditions:** Focused on offline-first synchronization, low-latency network payload optimization, biometric/token security, and rock-solid app vitals.
-- 🤝 **Let's Build Together:** Open to **Senior/Mid-Level Mobile Engineer** roles (Global Remote or Relocation) and high-impact fintech/enterprise collaborations.
-
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
@@ -66,16 +80,19 @@ object PaulAgada {
 <div align="center">
 
 #### Mobile, Native & Cross-Platform
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple&theme=dark" alt="Mobile Stack" />
 
 <br />
 
 #### Backend, Databases & Cloud
+
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,firebase,mysql,git,github,gitlab&theme=dark" alt="Backend Stack" />
 
 <br /><br />
 
 #### Specialized Capabilities & DevOps
+
 ![Smart POS SDKs](https://img.shields.io/badge/Smart_POS_SDK_Bridging-1E293B?style=flat-square&logo=android&logoColor=3DDC84)
 ![NIBSS Compliance](https://img.shields.io/badge/NIBSS_POS_Compliance-1E293B?style=flat-square&logo=shield&logoColor=06B6D4)
 ![Offline-First Sync](https://img.shields.io/badge/Offline--First_%26_Real--Time_Sync-1E293B?style=flat-square&logo=icloud&logoColor=38BDF8)
@@ -141,7 +158,7 @@ object PaulAgada {
 
 ### 🎓 Education & Certifications
 
-- 🎓 **B.Sc. in Computer Science** *(In Progress)* — University of the People
+- 🎓 **B.Sc. in Computer Science** _(In Progress)_ — University of the People
 - 🏦 **NIBSS Certification** — Agent Banking (POS) Onboarding & Compliance-Driven POS Operations
 - 📱 **Flutter Development & Backend Web Development** — TechyJaunt
 - 🧩 **JavaScript Algorithms & Data Structures** — freeCodeCamp
@@ -151,24 +168,25 @@ object PaulAgada {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=paulagada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&icon_color=6366F1&text_color=E2E8F0" alt="Paul's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulagada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=06B6D4&text_color=E2E8F0" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=paulagada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D101B&title_color=06B6D4&icon_color=EC4899&text_color=E2E8F0" alt="Paul's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulagada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D101B&title_color=06B6D4&text_color=E2E8F0" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=paulagada&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=paulagada&theme=tokyonight&hide_border=true&background=0D101B&ring=06B6D4&fire=EC4899&currStreakLabel=EC4899" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="./assets/pa-logo.jpg" width="44" alt="PA Logo" />
   <h3>💬 Let's build something resilient, fast, and impactful.</h3>
-  <p>Always happy to chat about mobile architecture, fintech/POS systems, or global engineering opportunities.</p>
+  <p>Always happy to chat about mobile architecture, Laravel backend systems, fintech/POS platforms, or global engineering opportunities.</p>
   <a href="mailto:paulagada075@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello-06B6D4?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Say Hello" />
+    <img src="https://img.shields.io/badge/Say_Hello-06B6D4?style=for-the-badge&logo=gmail&logoColor=0D101B" alt="Say Hello" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0E7490,55:1E1B4B,100:0B1120&height=48&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:06B6D4,35:DB2777,70:4C1D95,100:0D101B&height=48&section=footer" width="100%" alt="Footer" />
 </div>
