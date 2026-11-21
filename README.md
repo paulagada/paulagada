@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/pa-logo.jpg" width="92" alt="Paul Agada PA Logo" />
+  <img src="[./assets/pa-logo.jpg](https://github.com/paulagada/paul-portfolio/blob/main/assets/assets/images/pa_logo.png)" width="92" alt="Paul Agada PA Logo" />
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D101B,45:4C1D95,80:DB2777,100:06B6D4&height=200&section=header&text=PAUL%20AGADA&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=Mobile%20%26%20Laravel%20Backend%20Engineer%20%E2%80%A2%20Fintech%20%26%20Smart%20POS%20%E2%80%A2%20Scalable%20APIs&descSize=16&descAlignY=66&animation=scaleIn" width="100%" alt="Paul Agada Header" />
 </div>
